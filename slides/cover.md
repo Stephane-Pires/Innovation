@@ -1,3 +1,3 @@
-# Ventus 🌬
+# Innovation
 
-_A Slidev theme to storm your presentation 🌪_
+_How to do better ?_
